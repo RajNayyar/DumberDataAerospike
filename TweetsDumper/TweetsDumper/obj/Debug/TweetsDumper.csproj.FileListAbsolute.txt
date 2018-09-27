@@ -1,0 +1,11 @@
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\TweetsDumper.exe.config
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\TweetsDumper.exe
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\TweetsDumper.pdb
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\obj\Debug\TweetsDumper.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\obj\Debug\TweetsDumper.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\obj\Debug\TweetsDumper.exe
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\obj\Debug\TweetsDumper.pdb
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\AerospikeClient.dll
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\Neo.Lua.dll
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\Neo.Lua.pdb
+C:\Users\rnayyar\source\repos\TweetsDumper\TweetsDumper\bin\Debug\Neo.Lua.xml
